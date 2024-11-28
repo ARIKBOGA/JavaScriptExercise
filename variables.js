@@ -16,3 +16,7 @@ sayHi("Selim");
 function multiply(num1, num2) {
   return num1 * num2;
 }
+
+let a = 12;
+a = a ?? false;
+console.log(a);
