@@ -13,7 +13,7 @@ Welcome to the **JavaScript Exercises** repository! 🚀 This collection is desi
 ---
 
 ## About  
-This repository contains JavaScript exercises to reinforce fundamental and advanced concepts. Topics include:  
+This repositoNo code was selected to bery contains JavaScript exercises to reinforce fundamental and advanced concepts. Topics include:  
 - Variables and Data Types  
 - Functions and Scope  
 - Arrays and Objects  
